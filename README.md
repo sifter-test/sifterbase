@@ -1,11 +1,16 @@
 # sifterbase
 starter sifter project using Angular 19, latest Node, latest Mongo
 
-## Tools that you will need
+## Primary tools that you will need
 1. vs code
 2. latest node
 3. angular 19
 4. docker
+
+## Secondary tools
+1. Asciidoc: https://docs.asciidoctor.org/
+2. Antora: https://antora.org/
+   
 
 ## Training Guide
 

@@ -44,3 +44,8 @@ https://www.udemy.com/share/103IaC3@W9PGpFVBs5R4Djqt05YQelzRPQUDauxvb8gYvPAy8679
 
 
 ## What is the goal of this base project
+### Primary Goal
+We want you to start to learn your designated technology area by first going through the execerises in the videos (if you purchased a course) or through the many available online websites.
+
+### Secondary Goal
+Build out the start of the Sifter application using your designated technology

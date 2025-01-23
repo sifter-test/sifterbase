@@ -9,7 +9,7 @@ starter sifter project using Angular 19, latest Node, latest Mongo
 
 
 ## Secondary tools
-1.MDN Subscription: https://developer.mozilla.org/en-US/ (mandatory for Angular/Ui/UX - optional all others)
+1.MDN Subscription: https://developer.mozilla.org/en-US/
 2. draw.io: https://www.drawio.com/
 3. MLS Grid: https://www.mlsgrid.com/
 4. Asciidoc: https://docs.asciidoctor.org/

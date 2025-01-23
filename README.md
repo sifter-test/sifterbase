@@ -7,12 +7,14 @@ starter sifter project using Angular 19, latest Node, latest Mongo
 3. angular 19
 4. docker
 
+
 ## Secondary tools
-1. draw.io: https://www.drawio.com/
-2. MLS Grid: https://www.mlsgrid.com/
-3. Asciidoc: https://docs.asciidoctor.org/
-4. Antora: https://antora.org/
-5. Geppetto: https://www.geppettosoftware.com/
+1.MDN Subscription: https://developer.mozilla.org/en-US/ (mandatory for Angular/Ui/UX - optional all others)
+2. draw.io: https://www.drawio.com/
+3. MLS Grid: https://www.mlsgrid.com/
+4. Asciidoc: https://docs.asciidoctor.org/
+5. Antora: https://antora.org/
+6. Geppetto: https://www.geppettosoftware.com/
    
 
 ## Training Guide
